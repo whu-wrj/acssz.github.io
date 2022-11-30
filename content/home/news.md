@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 30
 
-title: Latest News
-subtitle:
+title: 最新资讯
+subtitle: Latest News
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
@@ -20,5 +20,5 @@ content:
   page_type: post
 design:
   view: 3
-  columns: '1'
+  columns: '2'
 ---
