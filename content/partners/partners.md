@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle:
+title: 学联卡合作伙伴
+subtitle: Business partners
 
 content:
   # Choose which groups/teams of users to display.

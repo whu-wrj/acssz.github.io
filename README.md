@@ -13,3 +13,4 @@ The deployment workflow is set that
 - [Wowchemy -- Create site locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 - [Wowchemy -- Deploy with Github Pages](https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages)
 - [First deployment notice](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-first-deployment-with-github_token)
+- [Github pages setup](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
